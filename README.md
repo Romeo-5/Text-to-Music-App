@@ -38,7 +38,3 @@ This project explores the intersection of Natural Language Processing and music 
 - NumPy - Numerical operations
 - Standard library modules
 
-## 🚀 Quick Start
-
-### Installation
-```bash
